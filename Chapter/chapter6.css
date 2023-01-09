@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.s{
+  width: 100%;
+}
+
+.a{
+  width: 100%;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background-size: cover;
+}
+
+.b{
+  width: 100%;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background-size: cover;
+}
+
+.c{
+  width: 100%;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background-size: cover;
+}
+
+.d{
+  width: 100%;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background-size: cover;
+}
