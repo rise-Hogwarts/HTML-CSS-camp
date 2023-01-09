@@ -4,42 +4,34 @@
   box-sizing: border-box;
 }
 
-.s{
-  width: 100%;
-}
-
-.a{
+.sakura{
   width: 100%;
   height: 200px;
-  margin: 0;
-  padding: 0;
+  background-image: url(img/box1.jpg);
   background-position: center;
   background-size: cover;
 }
 
-.b{
+.wave{
   width: 100%;
   height: 200px;
-  margin: 0;
-  padding: 0;
+  background-image: url(img/box2.jpg);
   background-position: center;
   background-size: cover;
 }
 
-.c{
+.ityou{
   width: 100%;
   height: 200px;
-  margin: 0;
-  padding: 0;
+  background-image: url(img/box3.jpg);
   background-position: center;
   background-size: cover;
 }
 
-.d{
+.snow{
   width: 100%;
   height: 200px;
-  margin: 0;
-  padding: 0;
+  background-image: url(img/box4.jpg);
   background-position: center;
   background-size: cover;
 }
