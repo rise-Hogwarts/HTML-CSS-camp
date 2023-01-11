@@ -7,7 +7,7 @@
 .sakura{
   width: 100%;
   height: 200px;
-  background-image: url(img/box1.jpg);
+  background-image: url(img6/box1.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -15,7 +15,7 @@
 .wave{
   width: 100%;
   height: 200px;
-  background-image: url(img/box2.jpg);
+  background-image: url(img6/box2.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -23,7 +23,7 @@
 .ityou{
   width: 100%;
   height: 200px;
-  background-image: url(img/box3.jpg);
+  background-image: url(img6/box3.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -31,7 +31,7 @@
 .snow{
   width: 100%;
   height: 200px;
-  background-image: url(img/box4.jpg);
+  background-image: url(img6/box4.jpg);
   background-position: center;
   background-size: cover;
 }
