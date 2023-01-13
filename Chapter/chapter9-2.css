@@ -77,3 +77,37 @@ h3{
 .box:nth-child(2){
   margin-right: 30px;
 }
+
+@media screen and (max-width:768px){
+  .main{
+    width: 100%;
+    display: block;
+  }
+
+  .box{
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .img1{
+  width: 100%;
+  }
+
+  .img2{
+    width: 100%;
+  }
+
+  .img3{
+    width: 100%;
+  }
+
+  .box:nth-child(1){
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .box:nth-child(2){
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+}
